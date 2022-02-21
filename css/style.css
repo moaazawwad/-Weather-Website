@@ -1,0 +1,52 @@
+
+
+
+
+.navbar li
+{
+    font-size: 16px;
+    padding-left: 32px;
+    font-weight: 650;
+}
+.border-bottom {
+    border-bottom: .3px solid #b6babd36 !important;
+}
+.wordHome{
+    color: #009ad8;
+ 
+}
+.bac{
+    background-image: url(banner.png);
+}
+
+
+.nav-link:hover {
+    color: #009ad8 !important;
+    border: 2px solid ;
+    border-radius: 40%;
+
+}
+h2{
+    font-size: 120px;
+}
+.a{
+    padding: 20px 50px 20px 20px;
+    background: #1e202b;
+    color: white;
+}
+.but{
+   width: 100px;
+   height: 55px;
+    position: absolute;
+    right: 10px;
+    top: 5px;
+}
+
+.form-control:focus{
+    background-color: #1e202b;
+    color: #fff;
+}
+.form-control{
+    background-color: #1e202b;
+    color: #fff;
+}
